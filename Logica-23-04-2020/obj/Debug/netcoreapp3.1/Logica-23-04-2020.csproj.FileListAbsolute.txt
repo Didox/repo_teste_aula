@@ -1,0 +1,12 @@
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/bin/Debug/netcoreapp3.1/Logica-23-04-2020.deps.json
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/bin/Debug/netcoreapp3.1/Logica-23-04-2020.runtimeconfig.json
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/bin/Debug/netcoreapp3.1/Logica-23-04-2020.runtimeconfig.dev.json
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/bin/Debug/netcoreapp3.1/Logica-23-04-2020.dll
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/bin/Debug/netcoreapp3.1/Logica-23-04-2020.pdb
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.csprojAssemblyReference.cache
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.csproj.CoreCompileInputs.cache
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.AssemblyInfoInputs.cache
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.AssemblyInfo.cs
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.dll
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.pdb
+/Users/danilo/Projects/Logica-23-04-2020/Logica-23-04-2020/obj/Debug/netcoreapp3.1/Logica-23-04-2020.genruntimeconfig.cache
